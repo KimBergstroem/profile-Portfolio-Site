@@ -1,37 +1,26 @@
-# Foobar
+# Personal Portfolio Site
 
-My Personal Portfolio project! Here you will find my latest works, completitions and other fun stuff!
+The Personal Portfolio site serves as a comprehensive showcase of my skills, projects, and professional experience. Designed with a focus on aesthetics and functionality, this platform offers visitors a curated glimpse into my expertise and accomplishments. Whether you're a potential employer, collaborator, or enthusiast, explore my portfolio to discover my capabilities and contributions in the realm of technology and beyond.
 
-## Installation
+## Features
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+- Comprehensive showcase of skills, projects, and professional experience
+- Aesthetic design and user-friendly interface
+- Responsive layout for seamless viewing on various devices
+- Integration of HTML, JavaScript, CSS, and Bootstrap for enhanced functionality and styling
+- Easy navigation and exploration of portfolio content
 
-```bash
-pip install foobar
-```
+## Technologies Used
 
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+- HTML
+- JavaScript
+- CSS
+- Bootstrap
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+Special thanks to [Code Institute](https://codeinstitute.net/) for the inspiration and guidance in creating this portfolio.
